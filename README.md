@@ -1,4 +1,4 @@
-#My Micrograd
+# My Micrograd
 
 This is effectively a copy of [@karpathy](https://github.com/karpathy)'s [micrograd](https://github.com/karpathy/micrograd). I made it to teach myself about autograd and neural network basics. There are some superficial rewrites and a bit of code golf vs micrograd. But it effectively does the same thing.
 
